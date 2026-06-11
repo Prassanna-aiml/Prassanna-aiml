@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=1100&height=80&lines=Hi+there!+I+am+Prassanna+M;Artificial+Intelligence+and+Machine+Learning+Student;Computer+Vision+Researcher;Generative+AI+Learner;LeetCode+Knight+-+Rating+2015%2B;Top+2.27%25+Globally;Research+Intern+at+National+Chung+Cheng+University;Building+AI-Powered+Solutions"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&height=50&lines=Hi+there!+I+am+Prassanna+M;Artificial+Intelligence+and+Machine+Learning+Student;Computer+Vision+Researcher;Generative+AI+Learner;LeetCode+Knight+-+Rating+2015%2B+-+Top+2.27%25+Globally;Intern+at+National+Chung+Cheng+University;Building+AI-Powered+Solutions"/>
 
 <br><br>
 
@@ -18,7 +18,6 @@
 
 </div>
 
----
 ---
 
 <table>
