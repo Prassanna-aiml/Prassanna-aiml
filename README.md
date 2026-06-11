@@ -1,8 +1,6 @@
 <div align="center">
 
-<h1>👋 Hi, I'm Prassanna M</h1>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%26+Machine+Learning+Student;Computer+Vision+Researcher;Generative+AI+Learner;LeetCode+Knight+%7C+Rating+2015%2B;Research+Intern+%40+National+Chung+Cheng+University;Building+AI-Powered+Solutions" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=1100&height=80&lines=👋+Hi+I'm+Prassanna+M;Artificial+Intelligence+%26+Machine+Learning+Student;Computer+Vision+Researcher;Generative+AI+Learner;LeetCode+Knight+%7C+Rating+2015%2B;Top+2.27%25+Globally;Research+Intern+%40+National+Chung+Cheng+University;Building+AI-Powered+Solutions" alt="Typing SVG" />
 
 <br><br>
 
