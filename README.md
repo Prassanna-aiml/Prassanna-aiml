@@ -1,13 +1,27 @@
 <div align="center">
 
-# Hi there, I'm Prassanna M 👋
+# Hi 👋 I'm Prassanna M
 
-### Artificial Intelligence & Machine Learning Student | Computer Vision Enthusiast | Problem Solver
+### Artificial Intelligence & Machine Learning Student
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Computer+Vision+Researcher;Healthcare+AI+Enthusiast;LeetCode+Knight+%7C+Top+2.27%25+Globally;Generative+AI+Learner;Building+AI-Powered+Solutions;Research+Intern+%40+National+Chung+Cheng+University+Taiwan" alt="Typing SVG" />
+
+<br><br>
 
 <a href="https://leetcode.com/u/prass007/">
-<img src="https://img.shields.io/badge/LEETCODE-prass007-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-prass007-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="mailto:prassannamano@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/prassanna-m-0b54012b2">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Prassanna-aiml">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -16,104 +30,113 @@
 
 # ⚡ About Me
 
-I'm an Artificial Intelligence & Machine Learning student passionate about building intelligent systems using AI, Machine Learning, Deep Learning, Computer Vision, and Generative AI.
+🎓 B.E Artificial Intelligence & Machine Learning @ Chennai Institute of Technology
 
-My interests focus on solving real-world problems through data-driven solutions, medical imaging, and modern AI technologies.
+🔬 Research Intern @ National Chung Cheng University, Taiwan
 
-* 🎓 B.E Artificial Intelligence & Machine Learning
-* 🧠 Exploring LLMs, RAG Systems & AI Agents
-* 👁️ Passionate about Computer Vision & Medical Imaging
-* 🚀 Building AI-Powered Applications
-* 🏆 Finalist — All India Developers Hackathon 2025
-* 💻 LeetCode Knight
+🤖 Passionate about Artificial Intelligence, Machine Learning, Computer Vision, Healthcare AI and Generative AI
+
+🏆 Finalist — All India Developers Hackathon 2025
+
+💻 LeetCode Knight | Rating 2000+ | Top 2.27% Globally
+
+🚀 Exploring LLMs, RAG Systems and AI Agents
 
 ---
 
 # 🛠️ Tech Stack
 
-| Category     | Tools                                        |
-| ------------ | -------------------------------------------- |
-| Languages    | `Python` `C` `C++` `JavaScript` `HTML5`      |
-| AI / ML      | `TensorFlow` `Keras` `OpenCV` `Scikit-Learn` |
-| Data Science | `NumPy` `Pandas` `Matplotlib`                |
-| Backend      | `Node.js` `Express.js`                       |
-| Frontend     | `React` `Tailwind CSS`                       |
-| Database     | `MySQL` `MongoDB`                            |
-| Tools        | `Git` `GitHub` `VS Code`                     |
-
-<br>
+| Category     | Technologies                            |
+| ------------ | --------------------------------------- |
+| Languages    | Python, C, C++, JavaScript, HTML        |
+| AI / ML      | TensorFlow, Keras, OpenCV, Scikit-Learn |
+| Data Science | NumPy, Pandas, Matplotlib               |
+| Frontend     | React, Tailwind CSS                     |
+| Backend      | Node.js, Express.js                     |
+| Database     | MySQL, MongoDB                          |
+| Tools        | Git, GitHub, VS Code                    |
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,react,nodejs,mongodb,mysql,tensorflow,git,github,vscode&perline=13"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,react,nodejs,mongodb,mysql,tensorflow,git,github,vscode&perline=13"/>
 
 </div>
 
 ---
-## 📊 LeetCode Stats
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/prass007?theme=dark&font=Baloo&ext=heatmap" />
-</p>
+# 📊 LeetCode Stats
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/prass007?theme=dark&font=Baloo&ext=heatmap"/>
+
+</div>
 
 ### Highlights
 
-- 🏅 Knight Badge Holder
-- 📈 Rating: 2000+
-- 🌍 Top 2.27% Globally
-- 💻 650+ Problems Solved
-- 🧠 Strong in DSA & Algorithms
+* 🏅 Knight Badge Holder
+* 📈 Rating: 2015+
+* 🌍 Top 2.27% Globally
+* 💻 650+ Problems Solved
+* 🧠 Strong in Data Structures & Algorithms
+
 ---
 
-# 💼 Internship Experience
+# 💼 Experience
 
-## 🔬 AIML Intern | National Chung Cheng University, Taiwan
+## 🔬 Research Intern | National Chung Cheng University, Taiwan
 
 📅 Nov 2025 – Jun 2026
 
-**Project: Hyperspectral-Inspired Narrow-Band Enhancement of White Light Endoscopic Images for Early Gastrointestinal Disease Detection**
+**Project:** Hyperspectral-Inspired Narrow-Band Enhancement of White Light Endoscopic Images for Early Gastrointestinal Disease Detection
 
-Working on advanced medical image analysis techniques to improve the detection of gastrointestinal abnormalities from conventional white-light endoscopic images.
+* Developing AI-driven enhancement techniques inspired by Hyperspectral Imaging (HSI)
+* Applying Computer Vision and Deep Learning for medical image analysis
+* Enhancing lesion visibility and tissue differentiation in endoscopic images
+* Supporting AI-assisted gastrointestinal disease detection
 
-#### Responsibilities
-
-- Developing AI-driven image enhancement techniques inspired by Hyperspectral Imaging (HSI)
-- Enhancing narrow-band spectral characteristics from standard White Light Endoscopy (WLI) images
-- Applying Computer Vision and Deep Learning methods for medical image processing
-- Investigating spectral feature extraction techniques for early disease identification
-- Improving tissue differentiation and lesion visibility for gastrointestinal diagnosis
-- Supporting research toward AI-assisted clinical decision systems
-
-#### Technologies
-
-`Python` `OpenCV` `TensorFlow` `Deep Learning`
-`Medical Imaging` `Computer Vision`
-`Hyperspectral Imaging` `Image Processing`
+**Tech:** Python • OpenCV • TensorFlow • Medical Imaging • Deep Learning
 
 ---
 
-## AIML Intern — Orbit Tech Solutions
+## 🤖 AIML Intern | Orbit Tech Solutions
 
-📅 November 2025 – December 2025
+📅 Nov 2025 – Dec 2025
 
-* Developed a Voice-Controlled Shopping Assistant using Whisper Speech Recognition and NLP.
-* Built automated product extraction and quantity identification workflows.
-* Implemented real-time billing generation and price calculation systems.
-* Developed ASR fallback mechanisms and text normalization pipelines.
+### Voice-Controlled Shopping Assistant
 
----
+* Developed a speech-based shopping assistant using Whisper ASR and NLP
+* Built automated product extraction and quantity detection workflows
+* Implemented billing generation and real-time price calculation systems
+* Developed ASR fallback mechanisms and text normalization pipelines
 
-### 🏆 Achievements
-
-* 🏅 Knight Badge Holder
-* 💯 730+ Problems Solved
-* 📈 Rating 2000+
-* 🌍 Top 2.3% Globally
-* 🧠 Strong Foundation in Data Structures & Algorithms
+**Tech:** Python • Whisper • NLP • Speech Recognition
 
 ---
 
-# 🚀 GitHub Analysis
+# 🚀 Featured Projects
+
+## 😊 Human Emotion Detection System
+
+* Built using OpenCV, MediaPipe FaceMesh, TensorFlow/Keras and Scikit-Learn
+* Developed a hybrid CNN + Zernike Moment model
+* Real-time emotion prediction using webcam input
+* Evaluated performance using ROC Analysis and Confusion Matrix
+
+---
+
+## 🍚 RationMate
+
+Inclusive ration management platform designed for accessibility.
+
+* Responsive User Interface
+* Multilingual Support
+* Optimized for Low-End Devices
+* Built using Node.js, Express.js and Tailwind CSS
+
+---
+
+# 🚀 GitHub Analytics
 
 <div align="center">
 
@@ -126,7 +149,6 @@ Working on advanced medical image analysis techniques to improve the detection o
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prassanna-aiml&layout=compact&theme=tokyonight"/>
 
 </div>
-
 
 ---
 
@@ -175,8 +197,8 @@ Working on advanced medical image analysis techniques to improve the detection o
 
 <div align="center">
 
-### ⭐ Turning Ideas into Intelligent Solutions Through AI ⭐
-
 <img src="https://komarev.com/ghpvc/?username=Prassanna-aiml&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+### ⭐ Turning Ideas into Intelligence, and Intelligence into Impact ⭐
 
 </div>
