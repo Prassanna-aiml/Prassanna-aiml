@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Hi+👋+I'm+Prassanna+M;Artificial+Intelligence+%26+Machine+Learning+Student;Computer+Vision+Researcher;Generative+AI+Learner;LeetCode+Knight+%7C+Rating+2015;Research+Intern+%40+National+Chung+Cheng+University;Building+AI-Powered+Solutions" />
+<h1>👋 Hi, I'm Prassanna M</h1>
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Prassanna-aiml&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%26+Machine+Learning+Student;Computer+Vision+Researcher;Generative+AI+Learner;LeetCode+Knight+%7C+Rating+2015%2B;Research+Intern+%40+National+Chung+Cheng+University;Building+AI-Powered+Solutions" />
 
 <br><br>
 
@@ -26,6 +24,7 @@
 
 <table>
 <tr>
+
 <td width="55%">
 
 ## 👨‍💻 About Me
@@ -34,7 +33,7 @@
 
 🔬 Research Intern @ National Chung Cheng University, Taiwan
 
-🤖 Interested in AI, Machine Learning, Computer Vision & Generative AI
+🤖 Interested in Artificial Intelligence, Machine Learning, Computer Vision & Generative AI
 
 🏆 Finalist — All India Developers Hackathon 2025
 
@@ -46,19 +45,20 @@
 
 ### 🎯 Current Focus
 
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- AI Agents
-- Computer Vision
-- Deep Learning
+* Large Language Models (LLMs)
+* Retrieval-Augmented Generation (RAG)
+* AI Agents
+* Computer Vision
+* Deep Learning
 
 </td>
 
 <td width="45%">
 
-<img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="100%"/>
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%"/>
 
 </td>
+
 </tr>
 </table>
 
@@ -66,15 +66,15 @@
 
 ## 🛠️ Tech Stack
 
-| Category | Technologies |
-|-----------|-------------|
-| Languages | Python, C, C++, JavaScript, HTML |
-| AI / ML | TensorFlow, Keras, OpenCV, Scikit-Learn |
-| Data Science | NumPy, Pandas, Matplotlib |
-| Frontend | React, Tailwind CSS |
-| Backend | Node.js, Express.js |
-| Database | MySQL, MongoDB |
-| Tools | Git, GitHub, VS Code |
+| Category     | Technologies                            |
+| ------------ | --------------------------------------- |
+| Languages    | Python, C, C++, JavaScript, HTML        |
+| AI / ML      | TensorFlow, Keras, OpenCV, Scikit-Learn |
+| Data Science | NumPy, Pandas, Matplotlib               |
+| Frontend     | React, Tailwind CSS                     |
+| Backend      | Node.js, Express.js                     |
+| Database     | MySQL, MongoDB                          |
+| Tools        | Git, GitHub, VS Code                    |
 
 <div align="center">
 
@@ -94,11 +94,11 @@
 
 ### 🏅 Highlights
 
-- Knight Badge Holder
-- Rating: 2015+
-- Top 2.27% Globally
-- 658+ Problems Solved
-- Strong in Data Structures & Algorithms
+* Knight Badge Holder
+* Rating: 2015+
+* Top 2.27% Globally
+* 658+ Problems Solved
+* Strong in Data Structures & Algorithms
 
 ---
 
@@ -110,10 +110,10 @@
 
 **Project:** Hyperspectral-Inspired Narrow-Band Enhancement of White Light Endoscopic Images for Early Gastrointestinal Disease Detection
 
-- Computer Vision & Medical Image Analysis
-- Deep Learning based Enhancement Techniques
-- Hyperspectral Imaging Inspired Research
-- AI-assisted Disease Detection
+* Computer Vision & Medical Image Analysis
+* Deep Learning-Based Enhancement Techniques
+* Hyperspectral Imaging Inspired Research
+* AI-Assisted Disease Detection
 
 ---
 
@@ -123,10 +123,10 @@
 
 **Voice-Controlled Shopping Assistant**
 
-- Whisper Speech Recognition
-- NLP-based Product Extraction
-- Automated Billing System
-- Real-Time Price Calculation
+* Whisper Speech Recognition
+* NLP-Based Product Extraction
+* Automated Billing System
+* Real-Time Price Calculation
 
 ---
 
@@ -134,25 +134,15 @@
 
 ### 😊 Human Emotion Detection System
 
-- OpenCV
-- MediaPipe FaceMesh
-- TensorFlow/Keras
-- Scikit-Learn
-- Real-Time Emotion Prediction
+OpenCV • MediaPipe FaceMesh • TensorFlow • Scikit-Learn
 
 ### 🍚 RationMate
 
-- Node.js
-- Express.js
-- Tailwind CSS
-- Multilingual Accessibility
+Node.js • Express.js • Tailwind CSS
 
 ### 🛒 Voice-Controlled Shopping Assistant
 
-- Python
-- Whisper
-- NLP
-- Automated Billing
+Python • Whisper • NLP
 
 ---
 
@@ -174,9 +164,9 @@
 
 ## 📜 Certifications
 
-- Learn-a-thon 2024 – Introduction to Modern AI
-- Learn-a-thon 2024 – Introduction to Data Science
-- CCNA – Introduction to Networks
+* Learn-a-thon 2024 – Introduction to Modern AI
+* Learn-a-thon 2024 – Introduction to Data Science
+* CCNA – Introduction to Networks
 
 ---
 
