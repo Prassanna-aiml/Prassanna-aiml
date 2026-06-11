@@ -50,14 +50,19 @@ My interests focus on solving real-world problems through data-driven solutions,
 </div>
 
 ---
-# 📊 LeetCode Stats
+## 📊 LeetCode Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/prass007?theme=dark&font=Baloo&ext=heatmap" />
+</p>
 
-<img src="https://leetcard.jacoblin.cool/prass007?theme=dark&font=Noto%20Serif&ext=heatmap&border=0" width="80%"/>
+### Highlights
 
-</div>
-
+- 🏅 Knight Badge Holder
+- 📈 Rating: 2000+
+- 🌍 Top 2.27% Globally
+- 💻 650+ Problems Solved
+- 🧠 Strong in DSA & Algorithms
 ---
 
 # 💼 Internship Experience
