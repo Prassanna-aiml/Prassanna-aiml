@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=1100&height=80&lines=👋+Hi+I'm+Prassanna+M;Artificial+Intelligence+%26+Machine+Learning+Student;Computer+Vision+Researcher;Generative+AI+Learner;LeetCode+Knight+%7C+Rating+2015%2B;Top+2.27%25+Globally;Research+Intern+%40+National+Chung+Cheng+University;Building+AI-Powered+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=1100&height=80&lines=Hi+there!+I+am+Prassanna+M;Artificial+Intelligence+and+Machine+Learning+Student;Computer+Vision+Researcher;Generative+AI+Learner;LeetCode+Knight+-+Rating+2015%2B;Top+2.27%25+Globally;Research+Intern+at+National+Chung+Cheng+University;Building+AI-Powered+Solutions"/>
 
 <br><br>
 
@@ -18,6 +18,7 @@
 
 </div>
 
+---
 ---
 
 <table>
